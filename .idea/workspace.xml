@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb736b82-b5f0-4fd4-b0d7-2e33e1e639c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/gitcontents.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607871457018</updated>
       <workItem from="1607871458059" duration="87000" />
-      <workItem from="1607871547804" duration="237000" />
+      <workItem from="1607871547804" duration="582000" />
     </task>
     <servers />
   </component>
