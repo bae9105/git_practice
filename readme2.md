@@ -9,3 +9,4 @@ mixed - working copy, unstaged는 남음
 soft - 커밋할수있는 상태로 되돌아감
 
 revert
+순차적으로 리버트할것
